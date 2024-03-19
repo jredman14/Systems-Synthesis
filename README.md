@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sollicitudin luct
 
 ## Data Analysis
 | lorem ipsum | lorem ipsum | lorem ipsum | lorem ipsum |
----------------------------------------------------------
+|-------------|-------------|-------------|-------------|
 | lorem ipsum | lorem ipsum | lorem ipsum | lorem ipsum |
 | lorem ipsum | lorem ipsum | lorem ipsum | lorem ipsum |
 | lorem ipsum | lorem ipsum | lorem ipsum | lorem ipsum |
