@@ -21,7 +21,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sollicitudin luct
 
 ### Data Analysis
 
-#### Sample data table
+#### Sample qualitative data table
+
 | Lorem ipsum | Lorem ipsum | Lorem ipsum | Lorem ipsum |
 |-------------------|------------------------|---------------------|------------------------|
 | Dolor sit amet | Consectetur adipiscing elit | Donec sollicitudin luctus dui | Quis bibendum |
@@ -35,6 +36,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sollicitudin luct
 <img width="320" alt="image" src="https://github.com/jredman14/Systems-Synthesis/assets/156849712/21e6ed41-7de7-4edf-a08c-d3c8fedcaa06">
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sollicitudin luctus dui, quis bibendum ex dictum eget. Ut tincidunt in enim vel dignissim. Aliquam a ligula fringilla, convallis augue ac, pretium arcu. Sed luctus ullamcorper dui, sit amet dictum ipsum sollicitudin sit amet. Etiam id dictum velit, at faucibus magna. Vestibulum quis commodo purus. Cras porttitor leo blandit enim mollis pellentesque. Sed vestibulum venenatis scelerisque. Donec consequat at ante cursus pellentesque. Aliquam fermentum, arcu in feugiat suscipit, lectus metus blandit ante, ut dapibus elit quam a leo. Sed felis nisl, consequat vel tortor ac, pulvinar eleifend risus. Fusce ut tortor eget elit interdum ultricies eu a urna. Duis egestas venenatis justo ac porttitor. Suspendisse velit nisi, molestie non egestas id, scelerisque in odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
+
+#### Sample quantitative data table
+
+| Dolor sit amet | Consectetur adipiscing elit | Donec sollicitudin luctus dui | Quis bibendum |
+|-------------------|------------------------|---------------------|------------------------|
+| 123456789 | 123456789 | 123456789 | 123456789 |
+| 123456789 | 123456789 | 123456789 | 123456789 |
+| 123456789 | 123456789 | 123456789 | 123456789 |
+| 123456789 | 123456789 | 123456789 | 123456789 |
+
 
 ### Discussion
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sollicitudin luctus dui, quis bibendum ex dictum eget. Ut tincidunt in enim vel dignissim. Aliquam a ligula fringilla, convallis augue ac, pretium arcu. Sed luctus ullamcorper dui, sit amet dictum ipsum sollicitudin sit amet. Etiam id dictum velit, at faucibus magna. Vestibulum quis commodo purus. Cras porttitor leo blandit enim mollis pellentesque. Sed vestibulum venenatis scelerisque. Donec consequat at ante cursus pellentesque. Aliquam fermentum, arcu in feugiat suscipit, lectus metus blandit ante, ut dapibus elit quam a leo. Sed felis nisl, consequat vel tortor ac, pulvinar eleifend risus. Fusce ut tortor eget elit interdum ultricies eu a urna. Duis egestas venenatis justo ac porttitor. Suspendisse velit nisi, molestie non egestas id, scelerisque in odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
